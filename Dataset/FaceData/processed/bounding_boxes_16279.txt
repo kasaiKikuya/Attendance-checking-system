@@ -1,0 +1,3 @@
+Dataset/FaceData/processed\triet\5048ce6b225ad004894b34.png
+Dataset/FaceData/processed\triet\aeec6fbc838d71d3289c35.png
+Dataset/FaceData/processed\phuong\IMG_3188.png 21 32 745 1021

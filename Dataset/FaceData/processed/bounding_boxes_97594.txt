@@ -1,0 +1,11 @@
+Dataset/FaceData/processed\linh\19298645-51ED-4861-BC82-5B5F97E89A27.png 300 821 713 1317
+Dataset/FaceData/processed\linh\23A17BD4-4162-4AA7-A602-74DE28908F51.png 248 591 896 1512
+Dataset/FaceData/processed\linh\247C9081-DB13-4E7D-94B3-E976699DEAC6.png 168 504 538 1057
+Dataset/FaceData/processed\linh\57566912-8B04-44ED-92EE-727E1262015E.png 188 816 648 1398
+Dataset/FaceData/processed\linh\741579DE-9451-416A-BD07-A4E30246DF87.png 308 855 893 1562
+Dataset/FaceData/processed\linh\75F24EFA-DD9A-4BB9-8AB6-DC5C4ACAD463.png 333 574 907 1274
+Dataset/FaceData/processed\linh\AE7EF043-6C0F-4881-BE25-18A2574C7BEF.png 311 614 765 1203
+Dataset/FaceData/processed\linh\CBD15CC9-E358-4663-B163-64D7EFF851B3.png 144 625 710 1447
+Dataset/FaceData/processed\linh\E9C3FDA8-E4CD-4B6A-8144-FA39DB74DEDE.png 329 419 754 924
+Dataset/FaceData/processed\triet\5048ce6b225ad004894b34.png
+Dataset/FaceData/processed\triet\aeec6fbc838d71d3289c35.png

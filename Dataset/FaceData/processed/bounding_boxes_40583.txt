@@ -1,0 +1,19 @@
+Dataset/FaceData/processed\triet\5048ce6b225ad004894b34.png
+Dataset/FaceData/processed\triet\aeec6fbc838d71d3289c35.png
+Dataset/FaceData/processed\phuong\33833383_2042067862776993_2621943054486994944_n.png 310 238 459 416
+Dataset/FaceData/processed\phuong\4A4326D3-82E1-4813-94C2-2BD0BABE31D4.png 252 210 351 323
+Dataset/FaceData/processed\phuong\6acf4e4c99963ddf3b4b67b9d0a66ae7.png 222 268 370 440
+Dataset/FaceData/processed\phuong\IMG_2751.png 155 242 387 536
+Dataset/FaceData/processed\phuong\IMG_3188.png
+Dataset/FaceData/processed\phuong\IMG_3252.png 93 119 479 628
+Dataset/FaceData/processed\phuong\IMG_3819.png 119 393 351 665
+Dataset/FaceData/processed\phuong\IMG_3864.png 131 308 526 824
+Dataset/FaceData/processed\phuong\IMG_4188.png 246 323 327 422
+Dataset/FaceData/processed\phuong\IMG_4614.png 116 0 353 247
+Dataset/FaceData/processed\phuong\IMG_4952.png 120 119 216 235
+Dataset/FaceData/processed\phuong\IMG_6404.png 0 230 432 763
+Dataset/FaceData/processed\phuong\IMG_6515.png 623 328 705 424
+Dataset/FaceData/processed\phuong\IMG_6630.png 265 90 401 249
+Dataset/FaceData/processed\phuong\IMG_6666.png 102 151 334 444
+Dataset/FaceData/processed\phuong\IMG_6830.png 157 208 396 494
+Dataset/FaceData/processed\phuong\Screenshot 2021-03-26 193030.png 349 91 476 244
